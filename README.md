@@ -6,15 +6,11 @@ To solve the issue, we have decided to build an API that filters out irrelevant 
 
 ## Before the test day
 
-1. Clone the repository
+Install the latest LTS version of Node.js or higher
 
-2. Install dependencies
-
-   ```
-   npm install
-   ```
-
-3. Read the code
+1. Clone this repository
+2. Install dependencies `npm install`
+3. Try to run `npm test`. The test should fail.
 
 ## Under the test day
 
