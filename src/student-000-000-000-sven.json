@@ -1,0 +1,45 @@
+[
+  {
+    "student": {
+      "name": "Sven Svenson",
+      "uid": "000-000-000-sven"
+    },
+    "currentContext": {
+      "instanceUid": "000-000-000-instance1"
+    },
+    "allResults": [
+      {
+        "uid": "000-000-000-result1",
+        "draft": {
+          "status": 1,
+          "instanceUid": "000-000-000-instance2",
+          "lastUpdate": "2024-10-09",
+          "grade": "C",
+          "date": "2022-01-01"
+        }
+      },
+      {
+        "uid": "000-000-000-result2",
+        "draft": {
+          "status": 1,
+          "instanceUid": "000-000-000-instance1",
+          "lastUpdate": "2024-10-11",
+          "grade": "A",
+          "date": "2022-01-01",
+          "projekttitel": {
+            "titel": "Hello world"
+          }
+        }
+      },
+      {
+        "uid": "000-000-000-result3",
+        "attested": {
+          "instanceUid": "000-000-000-instance1",
+          "lastUpdate": "2024-10-10",
+          "grade": "B",
+          "date": "2022-01-02"
+        }
+      }
+    ]
+  }
+]
